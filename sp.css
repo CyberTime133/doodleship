@@ -14,7 +14,7 @@ margin: 0px;
     position: absolute;
     margin: 0px;
     top: -0.5%;
-    color: red;
+    color: blue;
     font-size:3.8vw;
     font-family: Fantasy;
 
@@ -27,7 +27,7 @@ margin: 0px;
 
 .game-window
 {
-    border: 10px Solid Red;
+    border: 10px Solid blue;
     height: 89vh
 }
 
@@ -44,10 +44,10 @@ margin: 0px;
 {
     position: absolute;
     background-color: Yellow;
-    height: 37px;
+    height: 40px;
     width: 5vw;
     top: 9vh;
-    border: 2px Solid Red;
+    border: 2px Solid blue;
     margin: 0px;
     z-index: -1;
 }
